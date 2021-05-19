@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553056875736",
+    "project_id": "flutter-devlog",
+    "storage_bucket": "flutter-devlog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553056875736:android:85e2bbdeef7cb538b7d3ad",
+        "android_client_info": {
+          "package_name": "com.example.leecit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553056875736-41j3t55q099q5kbevvua2uvg29lid435.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0p3bG5EluDvOMFnAJq46sjecfZ9v6E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553056875736-41j3t55q099q5kbevvua2uvg29lid435.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
