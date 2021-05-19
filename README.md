@@ -1,6 +1,6 @@
 ### **Leecit**
 
- A simple Flutter app that makes leasing and selling of Properties easier using Firebase Firestore.
+ A simple Flutter app that can be used to buy and sell properties.
  
  ### **Dependencies**
 
